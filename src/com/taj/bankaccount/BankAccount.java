@@ -1,3 +1,5 @@
+package com.taj.bankaccount;
+
 public class BankAccount {
   private double checkingBalance;
   private double savingsBalance;

@@ -1,3 +1,7 @@
+package com.taj.bankaccount;
+
+import com.taj.bankaccount.BankAccount;
+
 public class TestBankAccount {
   public static void main(String[] args) {
     BankAccount account1 = new BankAccount();
